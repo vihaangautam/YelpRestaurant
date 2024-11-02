@@ -103,6 +103,7 @@ def plot_top_positive_negative_words(data):
 def main():
     st.title("Yelp Dataset Visualizations")
 
+    #TODO - Update path from direct to relative.
     reviews_file = "C:\\Users\\ASUS\\Downloads\\archive\\yelp_academic_dataset_review.json"
     business_file = "C:\\Users\\ASUS\\Downloads\\archive\\yelp_academic_dataset_business.json"
 
