@@ -1,4 +1,3 @@
-Business Rating Prediction System
 This project focuses on predicting business ratings based on customer reviews, using data from Yelp. By analyzing customer feedback, the system identifies patterns to make accurate predictions. The project also evaluates different techniques to determine the best approach for restaurant classification.
 
 Key Features
